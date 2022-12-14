@@ -1,0 +1,248 @@
+Peptide sequence,Position in protein,Weight (Da),Length (Aas),Hydrophobicity (cal/mol),Bitterness Threshold value (umol/L),Log (1/T),Mean Bitterness Intensity (1-15),Source of peptides,Literature reference,Groups
+RPKHPIK,Alphas1: (1-7),875,7,1777,-,-,-,EDC,"Lee et al. 1996",1
+RPKHPIKHQ,Alphas1: (1-9),1140,9,1427,-,-,-,Ch,"Broadbent et al. 1998, 2002",1
+RPKHPIKHQGLPQ,Alphas1: (1-13),1536,13,1368,-,-,-,EDC,"Lee et al. 1996",1
+EVLN,Alphas1: (14-17),474,4,1163,-,-,-,Ch,"Matoba et al. 1970; Lemieux and Simard, 1992",1
+NENLL,Alphas1: (17-21),602,5,1074,-,-,-,Ch,"Richardson and Creamer, 1973; Lemieux and Simard, 1992",1
+LRF,Alphas1: (21-23),435,3,1933,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+FFVAPFPEVFGK,Alphas1: (23-34),1385,12,1833,-,-,-,EDC,"Matoba et al. 1970; Lemieux and Simard, 1992",1
+APFPEVF,Alphas1: (26-32),806,7,1930,-,-,-,Ch,"Richard and Creamer, 1973; Lemieux and Simard, 1992",1
+APFPEVFG,Alphas1: (26-33),863,8,1689,-,-,-,EDC,"Matoba et al. 1970; Lemieux and Simard, 1992",1
+PEVF,Alphas1: (29-32),491,4,1878,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+YLGYLEQLLR,Alphas1: (91-100),1268,10,1660,-,-,-,EDC,"Hill and Van Leeuwen, 1974; Lemieux and Simard, 1992",1
+LGYLEQLL,Alphas1: (92-99),948,8,1625,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+LEQLL,Alphas1: (95-99),615,5,1542,-,-,-,EDC,"Mercier et al. 1971 ; Lemieux and Simard, 1992",1
+LRL,Alphas1: (99-101) ,401,3,1857,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+AYFYPEL,Alphas1: (143-149),902,7,2101,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+FYPE,Alphas1: (145-148),555,4,2173,-,-,-,EDC,"Belitz and Sparrer, 1971; Lemieux and Simard, 1992",1
+FYPELF,Alphas1: (145-150),815,6,2293,-,-,-,EDC,"Belitz and Sparrer, 1971; Lemieux and Simard, 1992",1
+FYPELFR,Alphas1: (145-151),971,7,2070,-,-,-,EDC,"Mercier et al. 1972; Lemieux and Simard, 1992",1
+VPLGTQYTDAPSF,Alphas1: (167-179),1396,13,1305,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+FALPQYLK,Alphas2: (174-181),979,8,1889,-,-,-,EDC,"Matoba et al. 1969; Lemieux and Simard, 1992",1
+KPWIQPK,Alphas2: (191-197),896,7,2016,-,-,-,EDC,"Lee et al. 1996",1
+VPGEIVESL,Beta: (8-16),942,9,1392,-,-,-,EDC,"Lee et al. 1996",1
+QDKIHPFAQTQSLVYPFPGP,Beta: (46-65),2271,20,1459,-,-,-,EDC,"Hamilton et al. 1974; Lemieux and Simard, 1992",1
+QDKIHPFAQTQSLVYPFPGPIP,Beta:-A2 (46-67),2481,22,1580,-,-,-,Ch,"Richardson and Creamer; Lemieux and Simard, 1992",1
+AQTQSLVYPFPGPIPNSLPQNIPPLTQ,Beta: (53-79),2919,27,1482,-,-,-,EDC,"Clegg et al. 1974; Lemieux and Simard, 1992",1
+PFPGPIPNS,Beta:-A2 (61-69),925,9,1792,-,-,-,"BK, EDC","Huber and Klostermeyer, 1974; Lemieux and Simard, 1992",1
+VPPFLQ,Beta: (84-89),700,6,1983,-,-,-,Gu,"Visser et al. 1983; Lemieux and Simard, 1992",1
+APK,Beta: (103-105),314,3,1617,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+TDVENLHLPLPL,Beta: (128-139),1361,12,1553,-,-,-,EDC,"Visser et al. 1975; Lemieux and Simard, 1992",1
+QSKVLPVPQ,Beta: (167-175),995,9,1376,-,-,-,EDC,"Monnet et al. 1986; Lemieux and Simard, 1992",1
+KAVPYPQ,Beta: (176-182),802,7,1704,-,-,-,EDC,"Monnet et al. 1986; Lemieux and Simard, 1992",1
+PYP,"Beta: (179-181), Kappa: (57-59)",375,3,2703,-,-,-,EDC,"Park and Lee, 1993",1
+RDMPIQAFLLY,Beta: (183-193),1367,11,1741,-,-,-,EDC,"Monnet et al. 1986; Lemieux and Simard, 1992",1
+FLL,Beta: (190-192),392,3,2497,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+YQEPVLGPVRGPFPII ,Beta: (193-208),1782,16,1808,-,-,-,"Gu, EDC","Visser et al. 1975, 1983; Lemieux and Simard, 1992",1
+QEPVLGPVRGPFPIIV,Beta: (194-209),1718,16,1734,-,-,-,EDC,"Gordon and Speck, 1965; Lemieux and Simard, 1992",1
+EPVLGPVRGPFPIIV,Beta: (195-209),1590,15,1856,-,-,-,EDC,"Gordon and Groves, 1975; Lemieux and Simard, 1992",1
+GPFPII,Beta: (203-208),643,6,2305,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+NLLRFF,Alphas1: (19-24),809,6,1810,160,-,-,"Ca, Gu, Fr","Sebald et al. 2020",2
+FFVAPFPEVF,Alphas1: (23-32),1199,10,2050,150,-,-,Ca,"Sebald et al. 2020",2
+VAPFPEVFGKE,Alphas1: (25-35),1219,11,1568,570,-,-,"Ca, E, Gu, PR, Fr, B","Sebald et al. 2018, 2020",2
+VFGKEKVNEL,Alphas1: (31-40),1162,10,1254,110,-,-,"Ca, E, Gu, PR, Fr, B","Sebald et al. 2018, 2020",2
+EIVPN,"Alphas1: (70-74, 110-114)",571,5,1564,430,-,-,Gu,"Toelstede and Hofmann, 2008a",2
+IQKEDVPS,Alphas1: (81-88),915,8,1226,690,-,-,"Ca, E, Gu, PR, Fr, S, Bu","Sebald et al. 2018, 2020",2
+ERYLGYLEQ,Alphas1: (89-97),1170,9,1368,460,-,-,"Gu, Fr, Bu","Sebald et al. 2020",2
+LLRLKK,Alphas1: (98-103),770,6,1832,190,-,-,Fr,"Sebald et al. 2020",2
+FALPQYLKT,Alphas2: (174-182),1080,9,1728,120,-,-,"Ca, E, Gu, Fr","Sebald et al. 2020",2
+ELEEL,Beta: (2-6),632,5,1298,880,-,-,"Ca, E, Gu, PR, Fr, B","Sebald et al. 2020",2
+SLVYPFPGPIHNS,Beta: (57-69),1428,13,1618,60,-,-,Gu,"Toelstede and Hofmann, 2008a",2
+SLVYPFPGPIPNSL,Beta: (57-70),1501,14,1826,120,-,-,N/A,"Sebald et al. 2020",2
+LVYPFPGPIHN,Beta: (58-68),1254,11,1905,80,-,-,Gu,"Toelstede and Hofmann, 2008a",2
+VYPF,Beta: (59-62),525,4,2458,302,-,-,Syn,"Isibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",2
+VYPFPGPIPN,Beta:-A2 (59-68),1100,10,2065,170,-,-,Gu,"Toelstede and Hofmann, 2008a",2
+VYP,Beta: (60-62),377,3,2393,3020,-,-,Syn,"Ishibashi et al. 1988b; Soltani et al. 2013; Kim and Li-Chan, 2006",2
+YPFPGPIPN,Beta:-A2 (60-68),1001,9,2107,230,-,-,Gu,"Toelstede and Hofmann, 2008a",2
+YPF,"Beta: (60-62, 110-112, 204-206)",425,3,2713,400,-,-,Syn,"Shinoda et al. 1986a; Lemieux and Simard, 1992",2
+YPFPGPI,Beta: (60-66),790,7,2336,160,-,-,Syn,"Shinoda et al. 1986a; Lemieux and Simard, 1992",2
+YPFPGPIHN,Beta: (60-68),1041,9,1871,100,-,-,Gu,"Toelstede and Hofmann, 2008a",2
+YPFPGPIHNS,Beta: (60-69),1128,10,1688,50,-,-,Gu,"Toelstede and Hofmann, 2008a",2
+YPFPGPIPNS,Beta:-A2 (60-69),1088,10,1900,330,-,-,Gu,"Toelstede and Hofmann, 2008a",2
+PFP,"Beta: (61-63, 110-112, 204-206), Alphas1: (27-29)",359,3,2630,400,-,-,Syn,"Shinoda et al. 1986a",2
+PGPIP,Beta: (63-67),480,5,2166,800,-,-,Syn,"Shinoda et al. 1986a",2
+PFPGPI,Beta: (61-66),627,6,2247,440,-,-,Syn,"Shinoda et al. 1986a; Lemieux and Simard, 1992",2
+PFPGPIP,Beta: (61-67),724,7,2300,250,-,-,Syn,"Shinoda et al. 1986a; Lemieux and Simard, 1992",2
+PGP,Beta: (63-65),269,3,1747,9120,-,-,Syn,"Ishibashi et al. 1988b; Soltani et al. 2013; Kim and Li-Chan, 2006",2
+PIP,Beta: (65-67),325,3,2737,1400,-,-,Syn,"Shinoda et al. 1986a",2
+TQTPVVVPPFL,Beta: (78-88),1198,11,1707,200,-,-,"Ca, E, Gu, Fr, B, Go","Sebald et al. 2020",2
+TQTPVVVPPFLQPE,Beta: (78-91),1552,14,1561,280,-,-,"Ca, E, Gu, PR, Fr, S, B, Go","Sebald et al. 2018, 2020",2
+VVV,Beta: (82-84),315,3,1690,4500,-,-,Syn,"Shinoda et al. 1986b; Lemieux and Simard, 1992",2
+VVVPP,Beta: (82-86),510,5,2062,3750,-,-,Syn,"Shinoda et al. 1986b",2
+VVVPPFL,Beta: (82-88),770,7,2197,140,-,-,Syn,"Shinoda et al. 1986b; Lemieux and Simard, 1992",2
+VVVPPFLQP,Beta: (82-90),995,9,1989,380,-,-,Syn,"Shinoda et al. 1986b; Lemieux and Simard, 1992",2
+VVPPFL,Beta: (83-88),671,6,2282,180,-,-,"Ca, E, Gu, B, Go","Sebald et al. 2020",2
+PPF,Beta: (85-87),359,3,2630,2344,-,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",2
+PPFL,Beta: (85-88),473,4,2578,25,-,-,Syn,"Shinoda et al. 1986b",2
+AMAPKHKEMPFPKYPVEPF,Beta: (101-119),2245,19,1743,250,-,-,"Ca, E, Gu, Fr, B","Sebald et al. 2020",2
+MAPKHKEMPFPKYPVEPF,Beta: (102-119),2174,18,1799,90,-,0.9,Ch,"Karametsi et al. 2014; Sebald et al. 2018, 2020",2
+FPK,Beta: (111-113) ,390,3,2257,3020,-,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",2
+VENLHLPLPLL,Beta: (130-140),1258,11,1825,280,-,-,"E, Fr","Sebald et al. 2020",2
+VENLHLPLPLLQSW,Beta: (130-143),1659,14,1644,350,-,-,"Ca, E, PR, Fr","Sebald et al. 2020",2
+NLHLPLPLLQS,Beta: (132-142),1245,11,1615,180,-,-,"E, Gu, Fr, B","Sebald et al. 2020",2
+LHLPLP,Beta: (133-138),689,6,2167,340,-,-,"Ca, E, Gu, PR, Fr, S, B, Go","Sebald et al. 2018, 2020",2
+LHLPLPLL,Beta: (133-140),915,8,2230,110,-,-,"Ca, E, Gu, PR, Fr, B","Sebald et al. 2018, 2020",2
+LHLPLPLLQS,Beta: (133-142),1130,10,1778,160,-,-,"Ca, E, Gu, PR, Fr, B","Sebald et al. 2020",2
+HLPLPLLQ,Beta: (134-141),930,8,1915,440,-,-,"Ca, E, Gu, PR, Fr, B","Sebald et al. 2018, 2020",2
+HLPLPLLQS,Beta: (134-142),1017,9,1707,160,-,-,"Ca, E, Gu, PR, Fr, B","Sebald et al. 2020",2
+LPLPLLQSW,Beta: (135-143),1066,9,1984,110,-,-,"Ca, E, Gu, PR, Fr, B","Sebald et al. 2020",2
+WMHQPHQPLPPTVMFPPQ,Beta: (143-160),2169,18,1623,170,-,-,Fr,"Sebald et al. 2020",2
+FPP,Beta: (157-159),359,3,2630,4571,-,-,Syn,"Otagiri et al. 1985; Soltani et al. 2013; Kim and Li-Chan, 2006",2
+KVLPVPQKAVPYPQ,Beta: (169-182),1564,14,1741,140,-,-,"Ca, E, Gu, PR, Fr, B","Sebald et al. 2018, 2020",2
+VLPVPQ,Beta: (170-175),652,6,1823,310,-,-,"Ca, E, Gu, PR, Fr, S, B, Go","Sebald et al. 2018, 2020",2
+VLPVPQKAVPYPQ,Beta: (170-182),1436,13,1759,340,-,-,"Ca, E, Gu, Fr, B","Sebald et al. 2020",2
+YQEPVLGPVRGPFPIIV,Beta: (193-209),1881,17,1801,180,-,-,"Gu, Ch, EDC","Visser et al. 1983; Toelstede and Hofmann, 2008a; Lemieux and Simard, 1992",2
+QEPVLGPVRGPFPII,Beta: (194-208),1619,15,1737,330,-,-,"Ca, E, Gu, PR, Fr, S, B, Go","Sebald et al. 2020",2
+PVLGPV,Beta: (196-201),581,6,1840,500,-,-,Syn,"Shinoda et al. 1985",2
+PVLGPVRGPFPIIV,Beta: (196-209),1461,14,1949,15,-,-,Syn,"Shinoda et al. 1985",2
+GPVRGPFP,Beta: (199-206),826,8,1616,1180,-,-,Gu,"Toelstede and Hofmann, 2008a",2
+VRGPFP,Beta: (201-206),672,6,1718,420,-,-,Gu,"Toelstede and Hofmann, 2008a",2
+PVRGPFPIIV,Beta: (200-209),1094,10,2056,4,-,-,Syn,"Shinoda et al. 1985",2
+RGPFPIIV,Beta: (202-209),898,8,2031,4,-,-,Syn,"Minamiura et al. 1972; Shinoda et al. 1985; Lemieux and Simard, 1992",2
+RGP,Beta: (202-204),328,3,1117,12589,-,-,Syn,"Otagiri et al. 1985; Soltani et al. 2013; Kim and Li-Chan, 2006",2
+PFPIIV,Beta: (204-209),685,6,2587,130,-,-,Syn,"Shinoda et al. 1985",2
+FFSDKIAK,Kappa: (17-24),955,8,1573,570,-,-,N/A,"Sebald et al. 2018, 2020",2
+IAKYIPI,Kappa: (22-28),817,7,2376,160,-,-,Fr,"Sebald et al. 2020",2
+YQQKPVAL,Kappa: (43-50),946,8,1454,500,-,-,"Ca, E, PR, Fr, B","Sebald et al. 2018, 2020",2
+ARHPHPHLSFM,Kappa: (96-106),1330,11,1328,30,-,-,"Fr, S","Sebald et al. 2018, 2020",2
+AIPPKKNQDKTEIPTIN,Kappa: (107-123),1907,17,1403,280,-,-,"Fr, B","Sebald et al. 2020",2
+AIPPKKNQDKTEIPTINTIASGEPT,Kappa: (107-131),2664,25,1266,290,-,-,"Ca, Gu, Fr","Sebald et al. 2018, 2020",2
+LPQE,Alphas1: (11-14),486,4,1373,"600-6,000",3.2-2.2,-,"Gu, EDC","Lee et al. 1996; Toelstede and Hofmann, 2008a,b; ",2
+DIKQM,Alphas1: (56-60),634,5,1242,"60-6,000",4.2-2.2,-,Gu,"Toelstede and Hofmann, 2008a,b; Sebald et al. 2018, 2020",3
+EIVPNS[phos]VEQK1,Alphas1: (70-79),1222,10,1150,">1,200",>2.9,-,"E, Gu, PR, Fr","Sebald et al. 2018, 2020",3
+IVPN,"Alphas1: (71-74, 111-114)",442,4,1818,">4,000",>2.4,-,Gu,"Toelstede and Hofmann, 2008a",3
+SITRINK,Beta: (22-28),831,7,1234,">6,000",>2.2,-,Gu,"Toelstede and Hofmann, 2008a",3
+QDKIHPFAQTQSLVYPFPGPIPNSLPQNIPPLTQTPVVV,Beta: (46-84),4280,39,1508,-,-,NB,Ch,"Hamilton et al. 1974; Lemieux and Simard, 1992",3
+IPPL,Beta: (74-77),439,4,2658,">6,000",>2.2,-,Gu,"Toelstede and Hofmann, 2008a",3
+IPPLTQTPVVVPP,Beta: (74-86),1358,13,1872,">6,000",>2.2,-,Gu,"Toelstede and Hofmann, 2008b",3
+TPVVVPPFLQPEVM,Beta: (80-93),1553,14,1750,>1600,>2.8,-,"Ca, E, Gu, PR, Fr","Sebald et al. 2020",3
+VPPFLQPE,Beta: (84-91),926,8,1884,>1730,>2.8,-,"Ca, E, Gu, PR, Fr, S, B, Go","Sebald et al. 2020",3
+VKEAMAPK,Beta: (98-105),873,8,1328,>1560,>2.8,-,"Ca, E, Gu, PR, Fr, B","Sebald et al. 2020",3
+APKHKEMPFPKYPVEPF,Beta: (103-119),2043,17,1829,-,-,0.36,Ch,"Karametsi et al. 2014",3
+MPFPKYPVEPF,Beta: (109-119),1352,11,2154,-,-,0.56,Ch,"Karametsi et al. 2014",3
+EMPFPKYPVEPF,Beta: (108-119),1481,12,2020,-,-,NB,Ch,"Karametsi et al. 2014",3
+LPPL,Beta:-G (135-138) ,439,4,2520,">6,000",>2.2,-,Gu,"Toelstede and Hofmann, 2008a",3
+YQEPVLGPVRGPFP,Beta: (193-206),1556,14,1641,-,-,-,Ch,"Karametsi et al. 2014; Visser et al. 1975, 1983; Lemieux and Simard, 1992",3
+YQEPVLGPVRGPFPI,Beta: (193-207),1669,15,1730,-,-,0.56,"Ch, Gu, EDC","Karametsi et al. 2014; ",3
+QEPVLGPVRGPFP,Beta: (194-206),1393,13,1547,-,-,NB,Ch,"Karametsi et al. 2014",3
+QEPVLGPVRGPFPI,Beta: (194-207),1506,14,1649,-,-,NB,"Ch, EDC","Monnet et al. 1986; Karametsi et al. 2014; Lemieux and Simard, 1992",3
+EPVLGPVRGPFP,Beta: (195-206),1265,12,1684,-,-,NB,Ch,"Karametsi et al. 2014",3
+PVLGPVRGPFP,Beta: (196-206),1135,11,1787,-,-,NB,Ch,"Karametsi et al. 2014",3
+LGPVRGPFP,Beta: (198-206),939,9,1706,-,-,NB,Ch,"Karametsi et al. 2014",3
+GPVRGPFPIIV,Beta: (199-209),1151,11,1869,-,-,4.56,Ch,"Karametsi et al. 2014",3
+GPFPIIV,Beta: (203-209),742,7,2217,170-340,3.8-3.5,-,"EDC, Syn","Pélissier et al. 1974; Hashimoto et al. 1980; Lemieux and Simard, 1992",3
+NYYQQKPVA,Kappa: (41-49),1110,9,1341,>1960,>2.7,-,"Ca, PR, Fr","Sebald et al. 2020",3
+INTIASGEPT,Kappa: (122-131),1002,10,1075,">1,500",>2.8,-,"Ca, E, Gu, Fr, B","Sebald et al. 2018, 2020",3
+LF,-,278,2,2535,1585,2.8,-,"EDC, syn","Belitz and Sparrer, 1971; Lemieux and Simard, 1992; Asao et al. 1987; Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+LW,-,317,2,2710,398,3.4,-,"Alpkase, EDC, syn","Guigoz and Solms, 1974; Hill and Van Leeuwen, 1974; Lemieux and Simard, 1992; Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+MI,-,262,2,2135,420,3.4,-,Gu,"Toelstede and Hofmann, 2008a",4
+YP,-,278,2,2745,19000-19953,1.7,-,Syn,"Shinoda et al. 1986a; Lemieux and Simard, 1992; Ishibashi et al. 1988b;  Soltani et al. 2013; Kim and Li-Chan, 2006 ",4
+PF,-,262,2,2635,38000-7244,2.1,-,Syn,"Shinoda et al. 1986a; Asao et al. 1987; Otagiri et al. 1985",4
+FP,-,262,2,2635,1500-1698,2.8,-,Syn,"Shinoda et al. 1986a; Asao et al. 1987; Ishibashi et al. 1988b",4
+RG,-,231,2,365,10000-7762,2.1,-,Syn,"Shinoda et al. 1985; Otagiri et al. 1985: Soltani et al. 2013; Kim and Li-Chan, 2006",4
+GV,-,174,2,845,4500-18197,1.7,-,Syn,"Shinoda et al. 1986b; Asao et al. 1987; Ishibashi et al. 1988a;  Soltani et al. 2013; Kim and Li-Chan, 2006",4
+VV,-,216,2,1690,25000-19498,1.7,-,Syn,"Shinoda et al. 1986b; Lemieux and Simard, 1992; Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+FL,-,278,2,2535,1500-1413,2.9,-,Syn,"Shinoda et al. 1986b; Asao et al. 1987; Ishibashi et al. 1987b",4
+II,-,244,2,2970,2884,2.5,-,Syn,"Asao et al. 1987; Ishibashi et al. 1988c;  Soltani et al. 2013; Kim and Li-Chan, 2006",4
+VL,-,230,2,2055,7762,2.1,-,Syn,"Asao et al. 1987; Ishibashi et al. 1988a;  Soltani et al. 2013; Kim and Li-Chan, 2006",4
+GP,-,172,2,1310,16218,1.8,-,Syn,"Asao et al. 1987; Otagiri et al. 1985",4
+FG,-,222,2,1325,10000,2,-,Syn,"Asao et al. 1987; Otagiri et al. 1985",4
+GF,-,222,2,1325,4365,2.4,-,Syn,"Asao et al. 1987; Otagiri et al. 1985",4
+FF,-,312,2,2650,977,3,-,Syn,"Asao et al. 1987; Otagiri et al. 1985",4
+IL,-,244,2,2695,2884,2.5,-,Syn,"Asao et al. 1987; Ishibashi et al. 1987a",4
+AF,-,236,2,1690,15488,1.8,-,Syn,"Asao et al. 1987; Ishibashi et al. 1987b",4
+GY,-,238,2,1435,7079,2.2,-,Syn,"Asao et al. 1987; Ishibashi et al. 1987b",4
+GL,-,188,2,1210,22909,1.6,-,Syn,"Asao et al. 1987; Ishibashi et al. 1988c;  Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IG,-,188,2,1485,9772,2,-,Syn,"Asao et al. 1987; Ishibashi et al. 1988c;  Soltani et al. 2013; Kim and Li-Chan, 2006",4
+GI,-,188,2,1485,6761,2.2,-,Syn,"Asao et al. 1987; Ishibashi et al. 1988c;  Soltani et al. 2013; Kim and Li-Chan, 2006",4
+RR,-,330,2,730,7762,2.1,-,Syn,"Otagiri et al. 1985: Soltani et al. 2013; Kim and Li-Chan, 2006",4
+PP,-,212,2,2620,4571,2.3,-,Syn,"Otagiri et al. 1985: Soltani et al. 2013; Kim and Li-Chan, 2006",4
+PR,-,271,2,1675,3020,2.5,-,Syn,"Otagiri et al. 1985: Soltani et al. 2013; Kim and Li-Chan, 2006",4
+KP,-,243,2,2060,3020,2.5,-,Syn,"Otagiri et al. 1985: Soltani et al. 2013; Kim and Li-Chan, 2006",4
+RF,-,321,2,1690,2512,2.6,-,Syn,"Otagiri et al. 1985: Soltani et al. 2013; Kim and Li-Chan, 2006",4
+LD,-,246,2,1480,5888,2.2,-,Syn,"Ohyama et al. 1988; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+YG,-,238,2,1435,3020,2.5,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+RP,-,271,2,1675,794,3.1,-,Syn,"Otagiri et al. 1985; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+LI,-,244,2,2695,3981,2.4,-,Syn,"Asao et al. 1987; Ishibashi et al. 1987a; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+SL,-,218,2,1230,32359,1.5,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+PL,-,228,2,2520,6026,2.2,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+KF,-,293,2,2075,9120,2,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+VY,-,280,2,2280,3020,2.5,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+VF,-,264,2,2170,3020,2.5,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+YY,-,344,2,2870,2344,2.6,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IF,-,278,2,2810,1479,2.8,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+FI,-,278,2,2810,1479,2.8,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+YF,-,328,2,2760,794,3.1,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+AV,-,188,2,1210,69183,1.2,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+VA,-,188,2,1210,69183,1.2,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+VG,-,174,2,845,64565,1.2,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+PA,-,186,2,1675,47863,1.3,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+ID,-,246,2,1755,42658,1.4,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IE,-,260,2,1760,42658,1.4,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IS,-,218,2,1505,32359,1.5,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IT,-,232,2,1705,32359,1.5,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IQ,-,259,2,1435,32359,1.5,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IN,-,245,2,1480,32359,1.5,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+WE,-,333,2,1775,27542,1.6,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IK,-,259,2,2235,22387,1.7,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IA,-,202,2,1850,20893,1.7,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+AL,-,202,2,1575,19953,1.7,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+LA,-,202,2,1575,19055,1.7,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+PY,-,278,2,2745,15849,1.8,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+GW,-,261,2,1500,12882,1.9,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IV,-,230,2,2330,8912-12589,2.1-1.9,-,Syn,"Asao et al. 1987; Ishibashi et al. 1988a;  Soltani et al. 2013; Kim and Li-Chan, 2006",4
+PI,-,228,2,2795,4677,2.3,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IP,-,228,2,2795,3981,2.4,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+YL,-,294,2,2645,3981,2.4,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+LY,-,294,2,2645,3467,2.5,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+IW,-,317,2,2985,891,3.1,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+FY,-,328,2,2760,741,3.1,-,Syn,"Asao et al. 1987; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+VD,-,232,2,1115,12589,1.9,-,Syn,"Ishibashi et al. 1988a; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+VI,-,230,2,2330,5888,2.2,-,Syn,"Ishibashi et al. 1988a; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+VE,-,246,2,1120,5888,2.2,-,Syn,"Ishibashi et al. 1988a; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+LV,-,230,2,2055,5888,2.2,-,Syn,"Ishibashi et al. 1988a; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+FV,-,264,2,2170,5888,2.2,-,Syn,"Ishibashi et al. 1988a; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+PK,-,243,2,2060,5888,2.2,-,Syn,"Ishibashi et al. 1988b; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+AD,-,204,2,635,5888,2.2,-,Syn,"Ohyama et al. 1988; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+LE,-,260,2,1485,3020,2.5,-,Syn,"Ohyama et al. 1988; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+GE,-,204,2,275,1479,2.8,-,Syn,"Ohyama et al. 1988; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+LG,-,188,2,1210,19498,1.7,-,Syn,"Asao et al. 1987; Ishibashi et al. 1988c; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+LL,-,244,2,2420,3388,2.5,-,Syn,"Asao et al. 1987; Ishibashi et al. 1988c; Soltani et al. 2013; Kim and Li-Chan, 2006",4
+LLL,"LACB (7-9, 4-6), ALBU (9-11, 10-12),",358,3,2420,1202,2.9,-,Syn,"Ishibashi et al. 1987a; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+GYG,LAPE: (385-387),295,3,957,19953,1.7,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+YGG,LALB (36-38),295,3,957,2344,2.6,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+GGV,LALB (37-39),231,3,563,33113,1.5,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+ELL,LALB (38-40),373,3,1797,398,3.4,-,Syn,"Ohyama et al. 1988; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+KPK,"ALBU (176-178), LAFN: (247-249)",371,3,1873,3020,2.5,-,Syn,"Ishibashi et al. 1988; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+LRL,"ALBU (559-561),",401,3,1857,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",5
+FPK,IGHG (117-119),390,3,2257,3020,2.5,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+LPPL,ALBU (370-372),439,4,2520,">6,000",>2.2,-,Gu,"Toelstede and Hofmann, 2008a",5
+FYPE,"ALBU(246-268), LAPE: (261-263)",555,4,2173,-,-,-,EDC,"Belitz and Sparrer, 1971; Lemieux and Simard, 1992",5
+APK,ALBU (325-328),314,3,1617,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",5
+VVV,IGHG (243-246),315,3,1690,4500,2.3,-,Syn,"Shinoda et al. 1986b; Lemieux and Simard, 1992",5
+FPP,IGHG (5-7),359,3,2630,4571,2.3,-,Syn,"Otagiri et al. 1985; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+VYP,IGHG (133-135),439,4,2520,3020,2.5,-,Syn,"Ishibashi et al. 1988b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+LGL,"LAPE: (327-329), LAFN: (14-16)",301,3,1613,5012,Syn,-,Syn,"Ishibashi et al. 1987a; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+GLL,LAPE: (515-517),301,3,1613,1479,Syn,-,Syn,"Ishibashi et al. 1987a; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+LLG,LAPE: (631-633),301,3,1613,5012,Syn,-,Syn,"Ishibashi et al. 1987a; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+LGL,"LAPE: (327-329), LAFN: (14-16)",301,3,1613,5012,Syn,-,Syn,"Ishibashi et al. 1987a; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+GLG,LAFN: (137-139),245,3,807,10000,Syn,-,Syn,"Ishibashi et al. 1987a; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+PPG,LAFN: (311-313),269,3,1747,9120,Syn,-,Syn,"Ishibashi et al. 1988b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+DLL,LAFN: (316-318),359,3,1793,794,Syn,-,Syn,"Ohyama et al. 1988; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+GGY,LAFN: (415-417),295,3,957,1479,Syn,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+YYG,LAFN: (542-544),401,3,1913,631,Syn,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+YGY,LAFN: (543-545),401,3,1913,794,Syn,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+LGG,LAFN: (670-672),245,3,807,100000,Syn,-,Syn,"Ishibashi et al. 1987a; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+GRP,LAFN: (672-674),328,3,1117,794,Syn,-,Syn,"Otagiri et al. 1985; Soltani et al. 2013; Kim and Li-Chan, 2006",5
+#[phos] = phosphorylation of serine.,,,,,,,,,,
+#"Position in Protein: Casein (bovine) variants are Alphas1, Alphas2, Beta, Kappa and Beta:A2. A2 is a genetic variant in which His67 is substituted by Pro67. Beta:G is a genetic variant in which Leu137 is substituted by Pro137. Unless stated otherwise Beta-casein is of the A1 variant. LACB = Beta-Lactoglobulin; ALBU = Albumin, LALB = alpha-lactalbumin; IGHG = immunoglobulin heavy constant gamma; LAFN = lactoferrin; LAPE= lactoperoxidase",,,,,,
+#Peptide length is designated in number of amino acid residues.,,,,,,,,,,
+#"Hydrophobicity: Q-value denotes the average hydrophobicity of a peptide (Ney, 1979).",,,,,,,,,
+#T = bitterness threshold values (mol/L),,,,,,,,,,
+#"Sourece of peptides: EDC = enzymatic digestion of casein or cheese, Syn = synthetic peptide with milk protein alignment, Ch = Cheddar, Gu = Gouda, Ca = camembert, PR = Parmigiano Reggiano, Fr = Fresh, E = Emmentaler, B = Buffalo, S = Sheep, Go = Goat"
+#"Literature reference includes first primary literature source, the review article by (Lemieux and Simard, 1992), and bitterness prediction models by (Soltani et al. 2013; Kim and Li-Chan, 2006).",,,,,
+#"Group I: Physical properties and amino acid composition of qualitatively determined bitter peptides identified from different sources",,,,,,,,,,
+#"Group II: Physical properties bitterness threshold values and amino acid composition of quantitatively determined bitter peptides identified from different sources",,,,,,,,,
+#"Group III: Physical properties bitterness values and amino acid composition of peptides determined to be none bitter or have indeterminable bitterness threshold values (group III) identified from different sources",,,,,,,,,
+#"Group IV: Physical properties bitterness threshold values and amino acid composition of bitter di-peptides identified from different sources",,,,,,,,,
+#"Group V: Physical properties bitterness threshold values and amino acid composition of bitter peptides with whey protein",,,,,,,,,
