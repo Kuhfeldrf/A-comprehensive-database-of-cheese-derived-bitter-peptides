@@ -4,20 +4,20 @@ RPKHPIKHQ,Alphas1: (1-9),1140,9,1427,-,-,-,Ch,"Broadbent et al. 1998, 2002",1
 RPKHPIKHQGLPQ,Alphas1: (1-13),1536,13,1368,-,-,-,EDC,"Lee et al. 1996",1
 EVLN,Alphas1: (14-17),474,4,1163,-,-,-,Ch,"Matoba et al. 1970; Lemieux and Simard, 1992",1
 NENLL,Alphas1: (17-21),602,5,1074,-,-,-,Ch,"Richardson and Creamer, 1973; Lemieux and Simard, 1992",1
-LRF,Alphas1: (21-23),435,3,1933,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+LRF,Alphas1: (21-23),435,3,1933,-,-,-,EDC,"PÃ©lissier et al. 1974; Lemieux and Simard, 1992",1
 FFVAPFPEVFGK,Alphas1: (23-34),1385,12,1833,-,-,-,EDC,"Matoba et al. 1970; Lemieux and Simard, 1992",1
 APFPEVF,Alphas1: (26-32),806,7,1930,-,-,-,Ch,"Richard and Creamer, 1973; Lemieux and Simard, 1992",1
 APFPEVFG,Alphas1: (26-33),863,8,1689,-,-,-,EDC,"Matoba et al. 1970; Lemieux and Simard, 1992",1
-PEVF,Alphas1: (29-32),491,4,1878,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+PEVF,Alphas1: (29-32),491,4,1878,-,-,-,EDC,"PÃ©lissier et al. 1974; Lemieux and Simard, 1992",1
 YLGYLEQLLR,Alphas1: (91-100),1268,10,1660,-,-,-,EDC,"Hill and Van Leeuwen, 1974; Lemieux and Simard, 1992",1
-LGYLEQLL,Alphas1: (92-99),948,8,1625,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+LGYLEQLL,Alphas1: (92-99),948,8,1625,-,-,-,EDC,"PÃ©lissier et al. 1974; Lemieux and Simard, 1992",1
 LEQLL,Alphas1: (95-99),615,5,1542,-,-,-,EDC,"Mercier et al. 1971 ; Lemieux and Simard, 1992",1
-LRL,Alphas1: (99-101) ,401,3,1857,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
-AYFYPEL,Alphas1: (143-149),902,7,2101,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+LRL,Alphas1: (99-101) ,401,3,1857,-,-,-,EDC,"PÃ©lissier et al. 1974; Lemieux and Simard, 1992",1
+AYFYPEL,Alphas1: (143-149),902,7,2101,-,-,-,EDC,"PÃ©lissier et al. 1974; Lemieux and Simard, 1992",1
 FYPE,Alphas1: (145-148),555,4,2173,-,-,-,EDC,"Belitz and Sparrer, 1971; Lemieux and Simard, 1992",1
 FYPELF,Alphas1: (145-150),815,6,2293,-,-,-,EDC,"Belitz and Sparrer, 1971; Lemieux and Simard, 1992",1
 FYPELFR,Alphas1: (145-151),971,7,2070,-,-,-,EDC,"Mercier et al. 1972; Lemieux and Simard, 1992",1
-VPLGTQYTDAPSF,Alphas1: (167-179),1396,13,1305,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+VPLGTQYTDAPSF,Alphas1: (167-179),1396,13,1305,-,-,-,EDC,"PÃ©lissier et al. 1974; Lemieux and Simard, 1992",1
 FALPQYLK,Alphas2: (174-181),979,8,1889,-,-,-,EDC,"Matoba et al. 1969; Lemieux and Simard, 1992",1
 KPWIQPK,Alphas2: (191-197),896,7,2016,-,-,-,EDC,"Lee et al. 1996",1
 VPGEIVESL,Beta: (8-16),942,9,1392,-,-,-,EDC,"Lee et al. 1996",1
@@ -26,17 +26,17 @@ QDKIHPFAQTQSLVYPFPGPIP,Beta:-A2 (46-67),2481,22,1580,-,-,-,Ch,"Richardson and Cr
 AQTQSLVYPFPGPIPNSLPQNIPPLTQ,Beta: (53-79),2919,27,1482,-,-,-,EDC,"Clegg et al. 1974; Lemieux and Simard, 1992",1
 PFPGPIPNS,Beta:-A2 (61-69),925,9,1792,-,-,-,"BK, EDC","Huber and Klostermeyer, 1974; Lemieux and Simard, 1992",1
 VPPFLQ,Beta: (84-89),700,6,1983,-,-,-,Gu,"Visser et al. 1983; Lemieux and Simard, 1992",1
-APK,Beta: (103-105),314,3,1617,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+APK,Beta: (103-105),314,3,1617,-,-,-,EDC,"PÃ©lissier et al. 1974; Lemieux and Simard, 1992",1
 TDVENLHLPLPL,Beta: (128-139),1361,12,1553,-,-,-,EDC,"Visser et al. 1975; Lemieux and Simard, 1992",1
 QSKVLPVPQ,Beta: (167-175),995,9,1376,-,-,-,EDC,"Monnet et al. 1986; Lemieux and Simard, 1992",1
 KAVPYPQ,Beta: (176-182),802,7,1704,-,-,-,EDC,"Monnet et al. 1986; Lemieux and Simard, 1992",1
 PYP,"Beta: (179-181), Kappa: (57-59)",375,3,2703,-,-,-,EDC,"Park and Lee, 1993",1
 RDMPIQAFLLY,Beta: (183-193),1367,11,1741,-,-,-,EDC,"Monnet et al. 1986; Lemieux and Simard, 1992",1
-FLL,Beta: (190-192),392,3,2497,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+FLL,Beta: (190-192),392,3,2497,-,-,-,EDC,"PÃ©lissier et al. 1974; Lemieux and Simard, 1992",1
 YQEPVLGPVRGPFPII ,Beta: (193-208),1782,16,1808,-,-,-,"Gu, EDC","Visser et al. 1975, 1983; Lemieux and Simard, 1992",1
 QEPVLGPVRGPFPIIV,Beta: (194-209),1718,16,1734,-,-,-,EDC,"Gordon and Speck, 1965; Lemieux and Simard, 1992",1
 EPVLGPVRGPFPIIV,Beta: (195-209),1590,15,1856,-,-,-,EDC,"Gordon and Groves, 1975; Lemieux and Simard, 1992",1
-GPFPII,Beta: (203-208),643,6,2305,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",1
+GPFPII,Beta: (203-208),643,6,2305,-,-,-,EDC,"PÃ©lissier et al. 1974; Lemieux and Simard, 1992",1
 NLLRFF,Alphas1: (19-24),809,6,1810,160,-,-,"Ca, Gu, Fr","Sebald et al. 2020",2
 FFVAPFPEVF,Alphas1: (23-32),1199,10,2050,150,-,-,Ca,"Sebald et al. 2020",2
 VAPFPEVFGKE,Alphas1: (25-35),1219,11,1568,570,-,-,"Ca, E, Gu, PR, Fr, B","Sebald et al. 2018, 2020",2
@@ -107,7 +107,7 @@ YQQKPVAL,Kappa: (43-50),946,8,1454,500,-,-,"Ca, E, PR, Fr, B","Sebald et al. 201
 ARHPHPHLSFM,Kappa: (96-106),1330,11,1328,30,-,-,"Fr, S","Sebald et al. 2018, 2020",2
 AIPPKKNQDKTEIPTIN,Kappa: (107-123),1907,17,1403,280,-,-,"Fr, B","Sebald et al. 2020",2
 AIPPKKNQDKTEIPTINTIASGEPT,Kappa: (107-131),2664,25,1266,290,-,-,"Ca, Gu, Fr","Sebald et al. 2018, 2020",2
-LPQE,Alphas1: (11-14),486,4,1373,"600-6,000",3.2-2.2,-,"Gu, EDC","Lee et al. 1996; Toelstede and Hofmann, 2008a,b; ",2
+LPQE,Alphas1: (11-14),486,4,1373,"600-6,000",3.2-2.2,-,"Gu, EDC","Lee et al. 1996; Toelstede and Hofmann, 2008a,b; ",3
 DIKQM,Alphas1: (56-60),634,5,1242,"60-6,000",4.2-2.2,-,Gu,"Toelstede and Hofmann, 2008a,b; Sebald et al. 2018, 2020",3
 EIVPNS[phos]VEQK1,Alphas1: (70-79),1222,10,1150,">1,200",>2.9,-,"E, Gu, PR, Fr","Sebald et al. 2018, 2020",3
 IVPN,"Alphas1: (71-74, 111-114)",442,4,1818,">4,000",>2.4,-,Gu,"Toelstede and Hofmann, 2008a",3
@@ -130,7 +130,7 @@ EPVLGPVRGPFP,Beta: (195-206),1265,12,1684,-,-,NB,Ch,"Karametsi et al. 2014",3
 PVLGPVRGPFP,Beta: (196-206),1135,11,1787,-,-,NB,Ch,"Karametsi et al. 2014",3
 LGPVRGPFP,Beta: (198-206),939,9,1706,-,-,NB,Ch,"Karametsi et al. 2014",3
 GPVRGPFPIIV,Beta: (199-209),1151,11,1869,-,-,4.56,Ch,"Karametsi et al. 2014",3
-GPFPIIV,Beta: (203-209),742,7,2217,170-340,3.8-3.5,-,"EDC, Syn","Pélissier et al. 1974; Hashimoto et al. 1980; Lemieux and Simard, 1992",3
+GPFPIIV,Beta: (203-209),742,7,2217,170-340,3.8-3.5,-,"EDC, Syn","PÃ©lissier et al. 1974; Hashimoto et al. 1980; Lemieux and Simard, 1992",3
 NYYQQKPVA,Kappa: (41-49),1110,9,1341,>1960,>2.7,-,"Ca, PR, Fr","Sebald et al. 2020",3
 INTIASGEPT,Kappa: (122-131),1002,10,1075,">1,500",>2.8,-,"Ca, E, Gu, Fr, B","Sebald et al. 2018, 2020",3
 LF,-,278,2,2535,1585,2.8,-,"EDC, syn","Belitz and Sparrer, 1971; Lemieux and Simard, 1992; Asao et al. 1987; Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",4
@@ -214,11 +214,11 @@ YGG,LALB (36-38),295,3,957,2344,2.6,-,Syn,"Ishibashi et al. 1987b; Soltani et al
 GGV,LALB (37-39),231,3,563,33113,1.5,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
 ELL,LALB (38-40),373,3,1797,398,3.4,-,Syn,"Ohyama et al. 1988; Soltani et al. 2013; Kim and Li-Chan, 2006",5
 KPK,"ALBU (176-178), LAFN: (247-249)",371,3,1873,3020,2.5,-,Syn,"Ishibashi et al. 1988; Soltani et al. 2013; Kim and Li-Chan, 2006",5
-LRL,"ALBU (559-561),",401,3,1857,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",5
+LRL,"ALBU (559-561),",401,3,1857,-,-,-,EDC,"PÃ©lissier et al. 1974; Lemieux and Simard, 1992",5
 FPK,IGHG (117-119),390,3,2257,3020,2.5,-,Syn,"Ishibashi et al. 1987b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
 LPPL,ALBU (370-372),439,4,2520,">6,000",>2.2,-,Gu,"Toelstede and Hofmann, 2008a",5
 FYPE,"ALBU(246-268), LAPE: (261-263)",555,4,2173,-,-,-,EDC,"Belitz and Sparrer, 1971; Lemieux and Simard, 1992",5
-APK,ALBU (325-328),314,3,1617,-,-,-,EDC,"Pélissier et al. 1974; Lemieux and Simard, 1992",5
+APK,ALBU (325-328),314,3,1617,-,-,-,EDC,"PÃ©lissier et al. 1974; Lemieux and Simard, 1992",5
 VVV,IGHG (243-246),315,3,1690,4500,2.3,-,Syn,"Shinoda et al. 1986b; Lemieux and Simard, 1992",5
 FPP,IGHG (5-7),359,3,2630,4571,2.3,-,Syn,"Otagiri et al. 1985; Soltani et al. 2013; Kim and Li-Chan, 2006",5
 VYP,IGHG (133-135),439,4,2520,3020,2.5,-,Syn,"Ishibashi et al. 1988b; Soltani et al. 2013; Kim and Li-Chan, 2006",5
