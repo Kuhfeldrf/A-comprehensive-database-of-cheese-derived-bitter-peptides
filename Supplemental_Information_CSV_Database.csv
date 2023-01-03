@@ -242,7 +242,7 @@ GRP,LAFN: (672-674),328,3,1117,794,Syn,-,Syn,"Otagiri et al. 1985; Soltani et al
 #"Sourece of peptides: EDC = enzymatic digestion of casein or cheese, Syn = synthetic peptide with milk protein alignment, Ch = Cheddar, Gu = Gouda, Ca = camembert, PR = Parmigiano Reggiano, Fr = Fresh, E = Emmentaler, B = Buffalo, S = Sheep, Go = Goat"
 #"Literature reference includes first primary literature source, the review article by (Lemieux and Simard, 1992), and bitterness prediction models by (Soltani et al. 2013; Kim and Li-Chan, 2006).",,,,,
 #"Group I: Physical properties and amino acid composition of qualitatively determined bitter peptides identified from different sources",,,,,,,,,,
-#"Group II: Physical properties bitterness threshold values and amino acid composition of quantitatively determined bitter peptides identified from different sources",,,,,,,,,
-#"Group III: Physical properties bitterness values and amino acid composition of peptides determined to be none bitter or have indeterminable bitterness threshold values (group III) identified from different sources",,,,,,,,,
-#"Group IV: Physical properties bitterness threshold values and amino acid composition of bitter di-peptides identified from different sources",,,,,,,,,
-#"Group V: Physical properties bitterness threshold values and amino acid composition of bitter peptides with whey protein",,,,,,,,,
+#"Group II: Physical properties, bitterness threshold values and amino acid composition of quantitatively determined bitter peptides identified from different sources ",,,,,,,,,
+#"Group III: Physical properties, bitterness values and amino acid composition of peptides determined to be non-bitter or have indeterminable bitterness threshold values",,,,,,,,,
+#"Group IV: Physical properties, bitterness threshold values and amino acid composition of bitter dipeptides identified from different sources",,,,,,,,,
+#"Group V: Physical properties, bitterness threshold values and amino acid composition of bitter peptides from whey proteins",,,,,,,,,
