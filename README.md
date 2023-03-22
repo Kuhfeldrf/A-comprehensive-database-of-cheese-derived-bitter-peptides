@@ -98,7 +98,7 @@ Visser S., K. J. Slangen, and G. Hup. 1975. Some bitter peptides from rennet-tre
 Visser S., K. J. Slangen, G. Hup, and J. Stadhouders. 1983. Bitter flavor in cheese .3. comparative gel-chromatographic analysis of hydrophobic peptide fractions from 12 gouda-type cheeses and identification of bitter peptides isolated from a cheese made with Streptococcus-cremoris strain hp. Netherlands Milk and Dairy Journal 37: 181-192.
 
 --------------------------
-METHODOLOGICAL INFORMATION - REQUIRED
+METHODOLOGICAL INFORMATION
 --------------------------
 
   1. Description of methods used for collection/generation of data: 
@@ -120,7 +120,7 @@ METHODOLOGICAL INFORMATION - REQUIRED
 
 
 ---------------------
-DATA & FILE OVERVIEW - REQUIRED
+DATA & FILE OVERVIEW
 ---------------------
   1. General information
     The database is in comma seperate value (.csv) format 
